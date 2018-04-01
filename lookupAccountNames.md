@@ -1,5 +1,13 @@
 ## lookupAccountNames() ([BACK](README.md))
 
+ ##### : 여러명의 스티미언 정보를 가져 올 수 있다. 하지만, 한명의 스티미언 정보를 가져올 때도 사용한다
+-----
+```
+steem.api.lookupAccountNames(['name1','name2'], function(err, result) {
+  console.log(err, result);
+```
+-----
+## 명령
 -----
 ```
 steem.api.lookupAccountNames(['codingman'], function(err, result) {
