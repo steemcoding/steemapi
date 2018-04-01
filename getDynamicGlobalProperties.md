@@ -1,5 +1,5 @@
 
-## getDynamicGlobalProperties() 동작
+## getDynamicGlobalProperties() 동작 ([BACK](README.md))
 -----
 ```
 steem.api.getDynamicGlobalProperties(function(err, result) {
