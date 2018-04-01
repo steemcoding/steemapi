@@ -1,12 +1,12 @@
-## lookupAccountNames()
+## lookupAccountNames() ([BACK](README.md))
 
-```
+-----
 ```
 steem.api.lookupAccountNames(['ned','dan'], function(err, result) {
   console.log(err, result);
 });
 ```
-```
+-----
 ## 결과
 -----
 ```
