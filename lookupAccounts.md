@@ -1,5 +1,5 @@
 
-## getAccounts() 동작 ([BACK](README.md))
+## lookupAccounts() 동작 ([BACK](README.md))
 ##### : lowerBundName(아디철자)를 기준으로 가까운 이름들 출력한다. limit(출력수)
 -----
 ```
