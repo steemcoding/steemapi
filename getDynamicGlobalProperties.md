@@ -1,14 +1,16 @@
 
 ## getDynamicGlobalProperties() 동작
 -----
+```
 steem.api.getDynamicGlobalProperties(function(err, result) {
   console.log(err, result);
 });
-
+```
 -----
 
 ## 결과
 -----
+```
 null { head_block_number: 21180421,
   head_block_id: '0143300507467810590a68039c7300f1fed5eca8',
   time: '2018-04-01T08:22:27',
@@ -37,4 +39,5 @@ null { head_block_number: 21180421,
   average_block_size: 11788,
   current_reserve_ratio: 200000000,
   max_virtual_bandwidth: '264241152000000000000' }
+  ```
   -----
