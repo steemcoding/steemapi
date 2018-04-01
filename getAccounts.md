@@ -1,6 +1,6 @@
 
-# getAccounts() 동작
-: 여러명의 스티미언  정보를 가져  올 수 있다
+## getAccounts() 동작
+##### : 여러명의 스티미언  정보를 가져  올 수 있다
 -----
 ```
 steem.api.getAccounts(['ned', 'dan'], function(err, response){
