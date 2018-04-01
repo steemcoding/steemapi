@@ -1,4 +1,4 @@
 # Steem-js API
 -----
-[getAccounts()](getAccounts.md)
-[getDynamicGlobalProperties()](getDynamicGlobalProperties.md)
+- [getAccounts()](getAccounts.md)
+- [getDynamicGlobalProperties()](getDynamicGlobalProperties.md)
