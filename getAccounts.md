@@ -2,7 +2,7 @@
 ## getAccounts() 동작 ([BACK](README.md))
 ##### : 여러명의 스티미언  정보를 가져  올 수 있다 한명의 스티미언 정보를 가져올 때도 사용한다
 -----
-### 예)
+##### ex)
 ```
 steem.api.getAccounts(['name1','name2'], function(err, result){
     console.log(err, result);
