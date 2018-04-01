@@ -1,1 +1,3 @@
-# steemapi
+# Steem-js API
+-----
+
