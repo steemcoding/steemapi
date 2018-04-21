@@ -74,6 +74,7 @@ steem.api.getActiveVotes(author, permlink, function (err, activeVoters) {
 ```
 ## 결과
 -----
+```
 voters : 15
 woo7739 : ($0.12)
 abdullar : ($1.82)
@@ -90,4 +91,5 @@ myfan : ($0.00)
 sirsubk1014 : ($0.01)
 spiritboxer : ($0.01)
 codingman : ($0.01)
+```
 -----
