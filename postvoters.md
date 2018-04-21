@@ -31,10 +31,11 @@ steem.api.getCurrentMedianHistoryPrice(function (err, historyPrice) {
 
 ##### : 기준이 되는 baseSBD 값을 구한 값에다 votoer의 보팅한 shares 값을 곱한 값
 -----
+```
 baseSBD = (reward_balance/recent_claims) \* (base/quote) 
 
 voterSBD = baseSBD \* (activeVoters[i].rshares)
-
+```
 -----
 
 ## 명령
