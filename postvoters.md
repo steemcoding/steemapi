@@ -65,7 +65,7 @@ steem.api.getActiveVotes(author, permlink, function (err, activeVoters) {
         
           voterSBD = (baseSBD * rshares).toFixed(2);  
          
-          var output = activeVoters[i].voter + ' : ($' + voterSBD+')';
+          var output = activeVoters[i].voter + ' : ($' + voterSBD + ')';
           console.log(output);
         }
       });     
