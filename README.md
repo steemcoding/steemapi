@@ -12,6 +12,5 @@
 - [전체 링크주소에서 author, Permlink 추출](LinkExtraction.md) 
 - [스티미언의 PROFILE 정보 추출](PROFILE.md) 
 - [게시물에서 특정 문자열 찾기](match.md) 
-
-
+- [POST에 보팅한 사람들 보팅액 계산](postvoters.md) 
 
