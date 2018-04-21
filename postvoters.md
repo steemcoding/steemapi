@@ -1,4 +1,4 @@
-## post에 보팅한 사람들 금액 계산 ([BACK](README.md))
+## POST에 보팅한 사람들 보팅액 계산 ([BACK](README.md))
 ##### :  특정 post에 보팅한 사람들의 보팅 금액을 계산한다. 
 
 
