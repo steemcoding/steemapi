@@ -34,6 +34,7 @@ steem.api.getCurrentMedianHistoryPrice(function (err, historyPrice) {
 baseSBD = (reward_balance/recent_claims) \* (base/quote) 
 
 voterSBD = baseSBD \* (activeVoters[i].rshares)
+
 -----
 
 ## 명령
