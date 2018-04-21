@@ -1,7 +1,6 @@
 ## POST에 보팅한 사람들 보팅액 계산 ([BACK](README.md))
 ##### :  특정 post에 보팅한 사람들의 보팅 금액을 계산한다. 
 
-
 -----
  - 출처 : https://cnsteem.com/kr/@tradingideas/node-js-3
 -----
@@ -74,6 +73,8 @@ steem.api.getActiveVotes(author, permlink, function (err, activeVoters) {
 });
 ```
 ## 결과
+##### : 과거 첫 POST의 보팅액 계산을 한 거라 계산을 실행한 당시의 기준 baseSBD이 첫 POST 보상액의 baseSBD랑은 다르다. 그래서 실제 보상이 지급된 금액과는 차이가 날 수 밖에 없다. 보상을 받기 전 POST의 보팅액 계산은 정확히 일치한다.
+
 -----
 ```
 voters : 15
