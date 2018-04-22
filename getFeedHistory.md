@@ -1,6 +1,6 @@
 
 ## getFeedHistory() 동작 ([BACK](README.md))
-##### : 평균 base와 quote의 price 정보를 가져온다.
+##### : 평균 base와 quote의 price 정보와 price_history 기록을 가져온다. 
 -----
 ```
 steem.api.getFeedHistory(function(err, result) {
