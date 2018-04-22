@@ -8,6 +8,8 @@
 - [getDynamicGlobalProperties()](getDynamicGlobalProperties.md)
 - [getActiveVotes](getActiveVotes.md)
 - [getFollowCount](getFollowCount.md)
+- [getFollowers](getFollowers.md)
+
 -----
 ## Tip
 - [전체 링크주소에서 author, Permlink 추출](LinkExtraction.md) 
