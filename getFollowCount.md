@@ -2,7 +2,7 @@
 ##### : 팔로우 정보를 가져옴.
 -----
 ```
-steem.api.getFollowCount(author, function(err, result) {
+steem.api.getFollowCount(account, function(err, result) {
      console.log(result);
 });
 ```
@@ -10,8 +10,8 @@ steem.api.getFollowCount(author, function(err, result) {
 ## 명령
 -----
 ```
-var author = 'codingman';
-steem.api.getFollowCount(author, function(err, result) {
+var account = 'codingman';
+steem.api.getFollowCount(account, function(err, result) {
      console.log(result);
 });
 ```
