@@ -6,7 +6,6 @@
 steem.api.getRewardFund(name, function(err, result) {
   console.log(err, result);
 });
-});
 ```
 -----
 ## 명령
