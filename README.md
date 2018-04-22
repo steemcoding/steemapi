@@ -9,6 +9,7 @@
 - [getActiveVotes](getActiveVotes.md)
 - [getFollowCount](getFollowCount.md)
 - [getFollowers](getFollowers.md)
+- [getRewardFund](getRewardFund.md)
 
 -----
 ## Tip
