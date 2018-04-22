@@ -11,6 +11,7 @@
 - [getFollowers](getFollowers.md)
 - [getRewardFund](getRewardFund.md)
 - [getFeedHistory](getFeedHistory.md)
+- [getCurrentMedianHistoryPrice](getCurrentMedianHistoryPrice.md)
 
 -----
 ## Tip
