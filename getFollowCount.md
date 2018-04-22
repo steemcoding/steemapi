@@ -1,5 +1,5 @@
 ## getFollowCount() 동작 ([BACK](README.md))
-##### : 팔로우 정보를 가져옴.
+##### : 팔로우와 팔로워 숫자 추출함.
 -----
 ```
 steem.api.getFollowCount(account, function(err, result) {
