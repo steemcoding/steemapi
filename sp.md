@@ -15,6 +15,12 @@ steem.api.getDynamicGlobalProperties(function (err, globalProperties) {
 });
 ```
 -----
+## SP 계산식
+
+```
+ SP = total_vesting_fund_steem/total_vesting_shares*vesting_shares;
+```
+-----
 ## 명령
 -----
 ```
