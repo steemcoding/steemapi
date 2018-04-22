@@ -12,6 +12,7 @@
 - [getRewardFund](getRewardFund.md)
 - [getFeedHistory](getFeedHistory.md)
 - [getCurrentMedianHistoryPrice](getCurrentMedianHistoryPrice.md)
+- [getAccountHistory](getAccountHistory.md)
 
 -----
 ## Tip
