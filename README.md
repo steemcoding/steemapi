@@ -10,6 +10,7 @@
 - [getFollowCount](getFollowCount.md)
 - [getFollowers](getFollowers.md)
 - [getRewardFund](getRewardFund.md)
+- [getFeedHistory](getFeedHistory.md)
 
 -----
 ## Tip
