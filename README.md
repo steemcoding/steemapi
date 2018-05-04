@@ -1,5 +1,7 @@
 # Steem-js API
 -----
+steem.js Doc : https://github.com/steemit/steem-js/tree/master/doc
+-----
 
 - [getAccounts()](getAccounts.md)
 - [lookupAccountNames()](lookupAccountNames.md)
@@ -22,4 +24,4 @@
 - [POST에 보팅한 사람들 보팅액 계산](postvoters.md)
 - [SP 구하기](sd.md)
 - [현재시간으로 부터 24시간동안 보팅한 내역 조사](authorVotes.md)
-aaa
+- [스티미언 블로그 전체 게시물 보기](authorposts.md)
